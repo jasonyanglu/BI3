@@ -1,6 +1,6 @@
 ## Introduction
 
-Python code for $$BI^3$$ (Bayes Imbalance Impact Index)
+Python code for $BI^3$ (Bayes Imbalance Impact Index)
 
 Author: [Yang Lu](https://jasonyanglu.github.io/)
 
@@ -11,7 +11,7 @@ Contact: lylylytc@gmail.com
 Run Python 3 by:
 
 ```shell
-python calculate_bi3.py dataset.npz
+python calculate_bi3.py syn_dataset.npz
 ```
 
 the dataset is in .npz file, which should contain key 'data' and 'label'. 
